@@ -1,0 +1,29 @@
+[
+    {
+        "num": 0,
+        "parent": 1
+    },
+    {
+        "num": 1,
+        "children": [
+            0
+        ],
+        "parent": 4
+    },
+    {
+        "num": 2,
+        "parent": 4
+    },
+    {
+        "num": 3,
+        "parent": 4
+    },
+    {
+        "num": 4,
+        "children": [
+            3,
+            2,
+            1
+        ]
+    }
+]
